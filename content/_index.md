@@ -178,8 +178,8 @@ sections:
           tag: Deep Learning
         #- name: Other
         #  tag: Demo
-        - name: Methods for Imbalanced Data
-          tag: Imbalanced
+        #- name: Methods for Imbalanced Data
+        #  tag: Imbalanced
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

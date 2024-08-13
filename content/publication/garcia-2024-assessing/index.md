@@ -1,28 +1,28 @@
 ---
-title: 'Common patterns between dengue cases, climate, and local environmental variables
-  in Costa Rica: A wavelet approach'
+title: 'Assessing SARS-CoV-2 Testing Adherence in a University Town: Recurrent Event
+  Modeling Analysis'
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Y. E. García
-- S. W. Chou-Chen
-- L. A. Barboza
-- M. L. Daza-Torres
-- J. C. Montesinos-López
-- P. Vásquez
-- et al.
+- Yury E García
+- Alec J Schmidt
+- Leslie Solis
+- Maria L Daza-Torres
+- J Cricelio Montesinos-López
+- Brad H Pollock
+- Miriam Nuño
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2023-01-01'
+date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-08-13T23:18:49.031509Z'
+publishDate: '2024-08-13T23:18:49.043335Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -30,10 +30,10 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*PLOS Glob Public Health*'
+publication: '*JMIR Public Health and Surveillance*'
 publication_short: ''
 
-doi: 10.1371/journal.pgph.0002417
+doi: 10.2196/48784
 
 abstract: ''
 

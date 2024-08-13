@@ -1,39 +1,39 @@
 ---
-title: 'Common patterns between dengue cases, climate, and local environmental variables
-  in Costa Rica: A wavelet approach'
+title: 'Optimal Spatial Allocation of Wastewater Treatment Plants: A Multi-Criteria
+  Approach'
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Y. E. García
-- S. W. Chou-Chen
-- L. A. Barboza
-- M. L. Daza-Torres
-- J. C. Montesinos-López
-- P. Vásquez
-- et al.
+- Maria L Daza-Torres
+- J Cricelio Montesinos-López
+- Cesar Herrera
+- Angel N Desai
+- Colleen C Naughton
+- Heather N Bischel
+- Miriam Nuño
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2023-01-01'
+date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-08-13T23:18:49.031509Z'
+publishDate: '2024-08-13T23:18:49.039289Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- manuscript
 
 # Publication name and optional abbreviated publication name.
-publication: '*PLOS Glob Public Health*'
+publication: ''
 publication_short: ''
 
-doi: 10.1371/journal.pgph.0002417
+doi: ''
 
 abstract: ''
 

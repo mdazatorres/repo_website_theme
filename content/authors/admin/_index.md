@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-My passion lies in applying mathematics to real-world multidisciplinary challenges and seeking practical solutions that involve different areas of knowledge. I also enjoy working on pure mathematical problems due to their intrinsic beauty. Currently, I'm a postdoctoral fellow at the University of California, Davis, where I focus on wastewater-based epidemiological modeling, data science, and Bayesian inference. I also enjoy mentoring students. 
+My passion lies in applying mathematics to real-world multidisciplinary challenges and seeking practical solutions that involve different areas of knowledge. I also enjoy working on pure mathematical problems due to their intrinsic beauty. Currently, I'm a postdoctoral fellow at the University of California, Davis. My research focuses on modeling infectious diseases by combining traditional surveillance data and wastewater-based epidemiology using mathematical and statistical models. I have extensive experience in Bayesian statistics, inverse problems, optimization algorithms, and mathematical modeling in epidemiology.
 {style="text-align: justify;"}
