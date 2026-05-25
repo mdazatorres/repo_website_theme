@@ -13,15 +13,18 @@ main:
   - name: Publications
     url: '#featured'
     weight: 40
-  - name: Talks
-    url: '#talks'
-    weight: 50
+  - name: Collaborate
+    url: /work-with-me/
+    weight: 55
   - name: Posts
     url: '#posts'
-  #  weight: 20
+    weight: 57
   - name: Contact
     url: '#contact'
     weight: 60
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

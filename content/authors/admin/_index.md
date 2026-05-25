@@ -15,11 +15,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral fellow
+role: Associate Research
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, Davis
+  - name: Universidad Nacional Autonona de Mexico, Instituto de Matemáticas
     url: https://www.ucdavis.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -118,5 +118,7 @@ social:
 highlight_name: true
 ---
 
-My passion lies in applying mathematics to real-world multidisciplinary challenges and seeking practical solutions that involve different areas of knowledge. I also enjoy working on pure mathematical problems due to their intrinsic beauty. Currently, I'm a postdoctoral fellow at the University of California, Davis. My research focuses on modeling infectious diseases by combining traditional surveillance data and wastewater-based epidemiology using mathematical and statistical models. I have extensive experience in Bayesian statistics, inverse problems, optimization algorithms, and mathematical modeling in epidemiology.
+My passion lies in applying mathematics to real-world, multidisciplinary challenges. My research focuses on the intersection of mathematical modeling, infectious disease dynamics, and Bayesian inference, supported by extensive experience in Bayesian statistics, inverse problems, optimization algorithms, and epidemiological modeling. While a significant part of my work centers on infectious disease dynamics, my interests are broader and include inverse problems for partial differential equations, uncertainty quantification, and applications across diverse data domains, including genomic and wind energy data.
+
+I value a balanced approach to life and work. Outside of research, I enjoy staying active through sports and engaging in activities that complement and enrich my academic work, helping me maintain creativity and perspective in my research.
 {style="text-align: justify;"}

@@ -176,8 +176,8 @@ sections:
           tag: '*'
         - name: Wastewater Disease Surveillance
           tag: Deep Learning
-        #- name: Other
-        #  tag: Demo
+        - name: IMPACT
+          tag: Impacts
         #- name: Methods for Imbalanced Data
         #  tag: Imbalanced
     design:
@@ -222,16 +222,16 @@ sections:
       columns: '2'
       view: citation
 
-  - block: collection
-    id: talks
-    content:
-      title: Recent and Upcoming Talks & Posters
-      filters:
-        folders:
-          - event
-    design:
-      columns: '1'
-      view: compact
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent and Upcoming Talks & Posters
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '1'
+  #     view: compact
 
   #- block: collection
     #id: talks
@@ -259,22 +259,23 @@ sections:
       text: |-
         Please contact...
       # Contact (add or remove contact options as necessary)
-      email: mdazatorres@ucdavis.edu
+      email: luisa.daza@im.unam.mx
       # phone: 888 888 88 88
       address:
-        street: Medical Sciences 1C
-        city: Davis
-        region: CA
-        postcode: '95616'
-        country: United States
-        country_code: US
+        street: Av. Universidad s/n Periferica
+        city: Cuernavaca
+        region: Morelos
+        postcode: '62210'
+        country: Mexico
+        country_code: MX
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Tuesday - Thursday 09:00 to 05:00'
+      # office_hours:
+      #   - 'Tuesday - Thursday 09:00 to 05:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '38.5343'
-        longitude: '-121.7638'  
+        latitude: '18.9845'
+        longitude: '-99.2269'  
+
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
