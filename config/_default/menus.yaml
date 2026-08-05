@@ -8,10 +8,10 @@ main:
     url: '#about'
     weight: 10
   - name: Projects
-    url: '#projects'
+    url: /project/
     weight: 30
   - name: Publications
-    url: '#featured'
+    url: /publication/
     weight: 40
   - name: Lectures
     url: https://mdazatorres.github.io/lectures/
