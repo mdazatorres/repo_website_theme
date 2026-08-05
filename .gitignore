@@ -2,3 +2,5 @@
 hugo_stats.json
 public/
 resources/_gen/
+eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)".pub
