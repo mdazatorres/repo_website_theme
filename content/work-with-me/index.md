@@ -38,7 +38,9 @@ I encourage students and researchers with backgrounds in:
 
 I am especially interested in working with individuals who are proactive, curious, and excited about interdisciplinary collaboration.
 
-If you are interested in working with me, please email me with:
+If you are interested in working with me, please email me at [luisa.daza@im.unam.mx](mailto:luisa.daza@im.unam.mx).
+
+When you write, please include:
 
 - A brief introduction
 - Your CV
