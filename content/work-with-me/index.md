@@ -8,6 +8,9 @@ sections:
     content:
       title: Collaboration Opportunities
       text: |-
+        <div class="text-right mb-4">
+          <a class="btn btn-outline-primary" href="/es/trabaja-conmigo/" lang="es">Español</a>
+        </div>
         <div class="row align-items-center">
           <div class="col-12 col-lg-8">
             <p>I am always happy to hear from students and researchers interested in interdisciplinary work at the intersection of mathematics, statistics, epidemiology, and data-driven modeling.</p>

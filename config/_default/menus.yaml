@@ -19,7 +19,7 @@ main:
   - name: Work With Me
     url: /work-with-me/
     weight: 55
-  - name: Posts
+  - name: News & Opportunities
     url: /post/
     weight: 57
   # - name: Talks
