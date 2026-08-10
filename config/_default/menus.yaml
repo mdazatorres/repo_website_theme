@@ -16,7 +16,7 @@ main:
   - name: Lectures
     url: https://mdazatorres.github.io/lectures/
     weight: 60
-  - name: Collaborate
+  - name: Work With Me
     url: /work-with-me/
     weight: 55
   - name: Posts
